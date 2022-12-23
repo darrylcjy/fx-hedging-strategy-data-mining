@@ -8,7 +8,7 @@ When businesses transact in various currencies (anticipate costs in one currency
 
 Information on companies' FX hedging strategies is typically available in the public domain, through their annual reports. However, sourcing this information manually is very time consuming as a typical annual report is 200 pages (approximately 3000-4000 sentences) long on average. Carrying out this process on a wider scale will be extremely tedious.
 
-Therefore, the aim of this project is to extract and present data on the FX hedging strategies of UK corporates through the use of machine learning techniques, which would serve to empower NatWest’s conversations with their UK corporate customer base. 
+Therefore, the aim of this project is to **extract and present data on the FX hedging strategies of UK corporates through the use of machine learning techniques**, which would serve to empower NatWest’s conversations with their UK corporate customer base. 
 
 <kbd> <img src="imgs/HedgingStrategy.png" width="700" height="250" /> 
 
