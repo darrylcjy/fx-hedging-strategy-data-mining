@@ -20,8 +20,8 @@ Cosine similarity is a metric used to measure how similar two documents are, irr
 
 <kbd> <img src="imgs/CosineSimilarity.png" width="350" height="250" /> 
 
-Each sentence in an annual report will be checked against a repository matrix, which contains hedging-related sentences, to determine whether that particular sentence contains information relevant to hedging (ie. is relevant). This will be done by calculating the angle between the input sentence vector and all the sentence vectors within the repository matrix, returning a list of angles. An input sentence vector whose smallest angle is below the given threshold (ie. 50°) will be predicted as relevant, otherwise it will be predicted as irrelevant. In essence, if an input sentence is very similar to at least one sentence within the repository
-matrix, it will be deemed as a relevant sentence.
+Each sentence in an annual report will be checked against a repository matrix, which contains hedging-related sentences, to determine whether that particular sentence contains information relevant to hedging (ie. is relevant). This will be done by calculating the angle between the input sentence vector and all the sentence vectors within the repository matrix, returning a list of angles. An input sentence vector whose smallest angle is below the given threshold (ie. 50°) will be predicted as relevant, otherwise it will be predicted as irrelevant. **In essence, if an input sentence is very similar to at least one sentence within the repository
+matrix, it will be deemed as a relevant sentence.**
 
 For this project, sentences will be vectorized using this particular transformer model called the _[all-MiniLM-L12-v2](https://www.sbert.net/docs/pretrained_models.html#sentence-embedding-models/)_, which can be loaded using the SentenceTransformers library.
 
