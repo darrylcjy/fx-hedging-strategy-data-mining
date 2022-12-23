@@ -27,7 +27,7 @@ For this project, sentences will be vectorized using this particular transformer
 
 `data/input/parsed_text` - Annual reports parsed into sentences 
 
-`data/output/relevant_text` - FX hedging-related sentences extracted from annual reports
+`data/output/relevant_text` - FX hedging-related sentences extracted from the parsed annual reports
 
 `data/repository.csv` - 256 FX hedging-related sentences manually extracted from 57 annual reports, used to create the repository matrix
 
