@@ -1,0 +1,385 @@
+text_raw,text_partial_preprocessed,page_num,cosine_similarity_score,relevant_keywords
+"Functional and presentational currency
+We present the Group Financial Statements in Sterling, which is the Company’s functional and presentational currency.","Functional and presentational currency We present the Group Financial Statements in Sterling, which is the Company’s functional and presentational currency.",111,22.411194,currency
+"We use derivative financial instruments to manage our exposure to interest rate, foreign currency and commodity 
+price risks, including:
+ > forward foreign exchange contracts, to hedge the exchange rate risk arising on the sale of goods and purchase of supplies in 
+
+foreign currencies;
+
+ > interest rate swaps, to mitigate the risk of rising interest rates; and
+ > forward commodity contracts, to hedge commodity price risk.","We use derivative financial instruments to manage our exposure to interest rate, foreign currency and commodity price risks, including: > forward foreign exchange contracts, to hedge the exchange rate risk arising on the sale of goods and purchase of supplies in foreign currencies; > interest rate swaps, to mitigate the risk of rising interest rates; and > forward commodity contracts, to hedge commodity price risk.",143,31.412308,"risk, foreign, currency, forward, hedge, exposure, rate"
+The functional currency of the Company is Sterling.,The functional currency of the Company is Sterling.,171,34.642166,currency
+"Information about the Group’s exposure to interest rate and foreign currency risks is 
+shown in note 26.",Information about the Group’s exposure to interest rate and foreign currency risks is shown in note 26.,149,35.765987,"foreign, currency, exposure, rate, risks"
+"The Group uses foreign currency denominated borrowings of £10.7m (2020: £6.8m) as a hedge against the translation exposure  
+on the Group’s net investment in overseas companies.",The Group uses foreign currency denominated borrowings of £10.7m (2020: £6.8m) as a hedge against the translation exposure on the Group’s net investment in overseas companies.,159,37.786453,"currency, foreign, exposure, hedge"
+"Derivative financial instruments and hedging
+Our activities expose us primarily to the financial risks of changes in foreign currency exchange rates and interest rates.",Derivative financial instruments and hedging Our activities expose us primarily to the financial risks of changes in foreign currency exchange rates and interest rates.,172,37.826008,"currency, foreign, hedging, risks"
+"We also use forward foreign currency contracts, implemented through a 
+medium-term US Dollar cross-currency borrowing and related interest rate swap, to hedge exposure to translation risk associated with 
+US Dollar net assets of subsidiaries.","We also use forward foreign currency contracts, implemented through a medium-term US Dollar cross-currency borrowing and related interest rate swap, to hedge exposure to translation risk associated with US Dollar net assets of subsidiaries.",172,38.454536,"risk, foreign, currency, forward, hedge, exposure, rate"
+"The Group’s business operates in 
+multiple countries worldwide and its 
+trading results are translated back 
+into the Group’s functional currency 
+of Sterling.",The Group’s business operates in multiple countries worldwide and its trading results are translated back into the Group’s functional currency of Sterling.,183,39.366913,currency
+"It includes external 
+loans, as well as loans to foreign operations within the Group where the loan is denominated in a currency other than the lender or 
+borrower’s currency.","It includes external loans, as well as loans to foreign operations within the Group where the loan is denominated in a currency other than the lender or borrower’s currency.",146,40.926292,"currency, foreign"
+"The carrying amounts of the Group’s foreign currency denominated monetary assets and monetary liabilities at the reporting date 
+were as follows:
+
+US Dollar
+Euro
+Chinese Yuan 
+
+Liabilities
+
+Assets
+
+2021  
+£m
+
+(67.7)
+(12.1)
+–
+
+2020  
+£m
+
+(76.2)
+(5.5)
+–
+
+2021  
+£m
+
+2.1
+0.5
+–
+
+2020 
+£m
+
+1.2
+–
+0.2
+
+Foreign currency Income Statement sensitivity analysis
+The Group is mainly exposed to movements in the US Dollar, Euro, Brazilian Real, Mexican Peso, Chinese Yuan and Russian Rouble 
+exchange rates.","The carrying amounts of the Group’s foreign currency denominated monetary assets and monetary liabilities at the reporting date were as follows: US Dollar Euro Chinese Yuan Liabilities Assets 2021 £m (67.7) (12.1) – 2020 £m (76.2) (5.5) – 2021 £m 2.1 0.5 – 2020 £m 1.2 – 0.2 Foreign currency Income Statement sensitivity analysis The Group is mainly exposed to movements in the US Dollar, Euro, Brazilian Real, Mexican Peso, Chinese Yuan and Russian Rouble exchange rates.",146,41.131207,"currency, foreign"
+"FINANCIAL INSTRUMENTS
+This note details our treasury management and financial risk management objectives and policies, as well as the Group’s exposure 
+and sensitivity to credit, liquidity, interest and foreign exchange rate risk, and the policies in place to monitor and manage these risks.","FINANCIAL INSTRUMENTS This note details our treasury management and financial risk management objectives and policies, as well as the Group’s exposure and sensitivity to credit, liquidity, interest and foreign exchange rate risk, and the policies in place to monitor and manage these risks.",143,41.676445,"risk, foreign, rate, exposure"
+"Forward foreign currency contracts do not qualify for hedge accounting in the Parent Company 
+Financial Statements, as the hedged item is not in its Balance Sheet.","Forward foreign currency contracts do not qualify for hedge accounting in the Parent Company Financial Statements, as the hedged item is not in its Balance Sheet.",172,41.713154,"currency, foreign, contracts, hedge"
+"20% currency movement
+
+10% currency movement
+
+Euro
+US Dollar
+Brazilian Real
+Mexican Peso
+Chinese Yuan 
+Russian Rouble
+
+2021  
+£m
+
+2.4
+1.2
+2.8
+2.8
+7.0
+1.3
+
+2020  
+£m
+
+2.2
+1.5
+2.2
+2.8
+4.3
+1.0
+
+2021  
+£m
+
+1.2
+0.6
+1.4
+1.4
+3.5
+0.6
+
+Forward foreign exchange contracts
+The Group’s policy is to enter into forward foreign exchange contracts, to cover specific foreign currency payments and receipts.","20% currency movement 10% currency movement Euro US Dollar Brazilian Real Mexican Peso Chinese Yuan Russian Rouble 2021 £m 2.4 1.2 2.8 2.8 7.0 1.3 2020 £m 2.2 1.5 2.2 2.8 4.3 1.0 2021 £m 1.2 0.6 1.4 1.4 3.5 0.6 Forward foreign exchange contracts The Group’s policy is to enter into forward foreign exchange contracts, to cover specific foreign currency payments and receipts.",146,41.839264,"currency, foreign, contracts, forward"
+"Foreign currencies
+We record foreign currency transactions in the relevant Group entity’s functional currency, at the exchange rate on the transaction date.","Foreign currencies We record foreign currency transactions in the relevant Group entity’s functional currency, at the exchange rate on the transaction date.",113,42.19458,"currencies, foreign, rate, currency"
+We use interest rate swaps to hedge interest rate risk.,We use interest rate swaps to hedge interest rate risk.,172,42.55894,"swaps, rate, hedge"
+"FINANCIAL INSTRUMENTS CONTINUED
+Foreign currency risk management
+We undertake transactions denominated in foreign currencies.",FINANCIAL INSTRUMENTS CONTINUED Foreign currency risk management We undertake transactions denominated in foreign currencies.,146,43.128025,"risk, foreign, currency"
+"As part of its interest rate strategy, the Group has entered into interest rate swaps to hedge floating LIBOR rates.","As part of its interest rate strategy, the Group has entered into interest rate swaps to hedge floating LIBOR rates.",150,43.26504,"swaps, rate, hedge"
+"Any gain or loss on the foreign 
+currency forward contracts relating to the effective portion of the hedge is recognised in Other Comprehensive Income and 
+accumulated in the foreign currency translation reserve.",Any gain or loss on the foreign currency forward contracts relating to the effective portion of the hedge is recognised in Other Comprehensive Income and accumulated in the foreign currency translation reserve.,144,43.763844,"foreign, currency, contracts, forward, hedge"
+"Our use of financial derivatives  
+is governed by policies approved by the Board of Directors, which provide written principles on foreign exchange risk, interest rate risk, 
+credit risk, the use of financial derivatives and non-derivative financial instruments, and the investment of excess liquidity.","Our use of financial derivatives is governed by policies approved by the Board of Directors, which provide written principles on foreign exchange risk, interest rate risk, credit risk, the use of financial derivatives and non-derivative financial instruments, and the investment of excess liquidity.",143,43.964867,"foreign, rate, derivatives"
+"The effect of exchange rate movements on the translation 
+of our overseas profits was to reduce the Group’s adjusted 
+profit before tax for the year by £6.3m compared with 
+2020, primarily due to weakness in Latin American 
+currencies.","The effect of exchange rate movements on the translation of our overseas profits was to reduce the Group’s adjusted profit before tax for the year by £6.3m compared with 2020, primarily due to weakness in Latin American currencies.",32,44.34077,rate
+"FINANCIAL INSTRUMENTS CONTINUED
+Net investment hedges
+The Group policy is to hedge no more than 70% of its wholly owned subsidiaries.",FINANCIAL INSTRUMENTS CONTINUED Net investment hedges The Group policy is to hedge no more than 70% of its wholly owned subsidiaries.,148,44.963947,"hedges, hedge"
+"Currency
+
+Interest rate
+
+GBP
+USD
+EUR
+Other
+
+1.5%
+1.5%
+1.4%
+0.8%
+
+2021 
+£m
+
+42.3
+59.7
+10.7
+9.7
+122.4
+
+2020 
+£m
+
+28.7
+68.6
+6.8
+8.9
+
+113.0
+
+C13.",Currency Interest rate GBP USD EUR Other 1.5% 1.5% 1.4% 0.8% 2021 £m 42.3 59.7 10.7 9.7 122.4 2020 £m 28.7 68.6 6.8 8.9 113.0 C13.,178,44.96529,rate
+"FINANCIAL INSTRUMENTS CONTINUED
+Interest rate risk management
+The Group is exposed to interest rate risk, as Group entities borrow funds at both fixed and floating interest rates.","FINANCIAL INSTRUMENTS CONTINUED Interest rate risk management The Group is exposed to interest rate risk, as Group entities borrow funds at both fixed and floating interest rates.",147,45.201153,"risk, rate"
+"The Group’s exposures to interest rates on financial assets and financial liabilities are detailed in the liquidity risk management section 
+of this note.",The Group’s exposures to interest rates on financial assets and financial liabilities are detailed in the liquidity risk management section of this note.,147,45.287296,risk
+"Financial risk
+The principal financial risks our activities expose us to are the risks of changes in foreign currency exchange rates, interest rates and 
+commodity prices.","Financial risk The principal financial risks our activities expose us to are the risks of changes in foreign currency exchange rates, interest rates and commodity prices.",143,45.569286,"risk, foreign, currency, risks"
+"We regularly review 
+our hedging activities, to align with our interest rate views and defined risk appetite, thereby ensuring we apply optimal hedging 
+strategies to minimise the adverse impact of fluctuations in interest expense through different interest rate cycles.","We regularly review our hedging activities, to align with our interest rate views and defined risk appetite, thereby ensuring we apply optimal hedging strategies to minimise the adverse impact of fluctuations in interest expense through different interest rate cycles.",147,45.623272,"risk, rate, hedging"
+"When non-monetary assets and liabilities are measured at historical cost in a foreign currency, we translate them at the exchange rate 
+at the transaction date.","When non-monetary assets and liabilities are measured at historical cost in a foreign currency, we translate them at the exchange rate at the transaction date.",113,46.05656,"foreign, rate"
+"Hedging activities
+The Group designates certain derivatives as hedging instruments in respect of foreign exchange risk, interest rate risk and commodity 
+risk in fair value hedges, cash flow hedges, or hedges of net investments in foreign operations.","Hedging activities The Group designates certain derivatives as hedging instruments in respect of foreign exchange risk, interest rate risk and commodity risk in fair value hedges, cash flow hedges, or hedges of net investments in foreign operations.",143,46.754616,"risk, hedges, foreign, hedging, rate, derivatives"
+"When exchange differences arise from the fair value movement of related effective hedges, we take them to the foreign currency 
+translation reserve.","When exchange differences arise from the fair value movement of related effective hedges, we take them to the foreign currency translation reserve.",113,46.873592,"currency, foreign"
+"Cash flow hedges
+The following table details the notional principal amounts and remaining terms of interest rate swap contracts outstanding, as at the 
+reporting date:
+
+Outstanding receive floating pay fixed contracts
+
+USD interest rate swaps
+Less than one year
+One to five years
+
+GBP interest rate swaps
+One to five years
+
+Average contract  
+fixed interest rate
+
+2021  
+%
+
+–
+–
+
+2020  
+%
+
+1.22
+–
+
+Notional principal amount
+
+Fair value
+
+2021  
+£m
+
+2020  
+£m
+
+2021  
+£m
+
+2020  
+£m
+
+–
+–
+–
+
+36.3
+–
+
+36.3
+
+25.0
+
+–
+–
+–
+
+–
+
+–
+–
+
+–
+
+(0.2)
+
+1.13
+
+1.61
+
+5.0
+
+The interest rate swaps settle on a quarterly basis.","Cash flow hedges The following table details the notional principal amounts and remaining terms of interest rate swap contracts outstanding, as at the reporting date: Outstanding receive floating pay fixed contracts USD interest rate swaps Less than one year One to five years GBP interest rate swaps One to five years Average contract fixed interest rate 2021 % – – 2020 % 1.22 – Notional principal amount Fair value 2021 £m 2020 £m 2021 £m 2020 £m – – – 36.3 – 36.3 25.0 – – – – – – – (0.2) 1.13 1.61 5.0 The interest rate swaps settle on a quarterly basis.",147,46.941254,"hedges, contracts, rate, swaps"
+"Receivables denominated in currencies other than Sterling comprise £35.7m denominated in US Dollars (2020: £34.7m),  
+£11.8m denominated in Euros (2020: £13.2m) and £37.9m denominated in other currencies (2020: £32.1m).","Receivables denominated in currencies other than Sterling comprise £35.7m denominated in US Dollars (2020: £34.7m), £11.8m denominated in Euros (2020: £13.2m) and £37.9m denominated in other currencies (2020: £32.1m).",140,47.11529,currencies
+"Furthermore, at the 
+inception of the hedge and on an ongoing basis, the Group documents whether the hedging instrument is effective in offsetting 
+changes in fair values or cash flows of the hedged item attributable to the hedged risk, which is when the hedging relationship meets 
+all of the following hedge effectiveness requirements: 
+ > there is an economic relationship between the hedged item and the hedging instrument; 
+ > the effect of credit risk does not dominate the value changes that result from that economic relationship; and 
+ > the hedge ratio of the hedging relationship is the same as that resulting from the quantity of the hedged item that the Group 
+
+actually hedges and the quantity of the hedging instrument that the Group actually uses to hedge that quantity of hedged item.","Furthermore, at the inception of the hedge and on an ongoing basis, the Group documents whether the hedging instrument is effective in offsetting changes in fair values or cash flows of the hedged item attributable to the hedged risk, which is when the hedging relationship meets all of the following hedge effectiveness requirements: > there is an economic relationship between the hedged item and the hedging instrument; > the effect of credit risk does not dominate the value changes that result from that economic relationship; and > the hedge ratio of the hedging relationship is the same as that resulting from the quantity of the hedged item that the Group actually hedges and the quantity of the hedging instrument that the Group actually uses to hedge that quantity of hedged item.",144,47.22424,"risk, hedges, hedging, hedge"
+"Where the hedge is fully effective at hedging the variability in the net assets  
+of such companies caused by changes in exchange rates, the changes in value of the borrowings are recognised in the Consolidated 
+Statement of Comprehensive Income and accumulated in the hedging and translation reserves.","Where the hedge is fully effective at hedging the variability in the net assets of such companies caused by changes in exchange rates, the changes in value of the borrowings are recognised in the Consolidated Statement of Comprehensive Income and accumulated in the hedging and translation reserves.",159,47.855515,"hedging, hedge"
+"Non-current liabilities
+Unsecured bank loans
+Obligations under leases (see note 28)
+
+Current liabilities
+Unsecured bank loans and overdrafts
+Obligations under leases (see note 28)
+
+Total interest-bearing liabilities
+
+Terms and debt repayment schedule
+Terms and conditions of outstanding loans and overdrafts were as follows:
+
+Revolving credit facility and overdraft
+Revolving credit facility, term loan and overdraft
+Revolving credit facility and overdraft
+Obligations under leases
+Other unsecured bank borrowings
+
+Total interest-bearing liabilities
+
+Currency
+
+GBP
+USD
+EUR
+USD
+Other
+
+2021  
+Interest rate
+
+1.5%
+1.5%
+1.4%
+2.8%
+0.8%
+
+2021  
+£m
+
+2020  
+£m
+
+109.4
+19.3
+128.7
+
+13.9
+9.0
+22.9
+151.6
+
+2021  
+£m
+
+43.2
+59.7
+10.7
+28.3
+9.7
+151.6
+
+103.6
+21.1
+
+124.7
+
+9.2
+10.0
+
+19.2
+
+143.9
+
+2020  
+£m
+
+28.6
+68.5
+6.8
+31.1
+8.9
+
+143.9
+
+The above revolving credit facilities are unsecured.","Non-current liabilities Unsecured bank loans Obligations under leases (see note 28) Current liabilities Unsecured bank loans and overdrafts Obligations under leases (see note 28) Total interest-bearing liabilities Terms and debt repayment schedule Terms and conditions of outstanding loans and overdrafts were as follows: Revolving credit facility and overdraft Revolving credit facility, term loan and overdraft Revolving credit facility and overdraft Obligations under leases Other unsecured bank borrowings Total interest-bearing liabilities Currency GBP USD EUR USD Other 2021 Interest rate 1.5% 1.5% 1.4% 2.8% 0.8% 2021 £m 2020 £m 109.4 19.3 128.7 13.9 9.0 22.9 151.6 2021 £m 43.2 59.7 10.7 28.3 9.7 151.6 103.6 21.1 124.7 9.2 10.0 19.2 143.9 2020 £m 28.6 68.5 6.8 31.1 8.9 143.9 The above revolving credit facilities are unsecured.",149,48.174442,rate
+"Foreign exchange contracts can be settled on a net or 
+gross basis; the net cash flows presented in the table above reflect an inflow of £88.4m and outflow of £88.4m (2020: inflow of £70.3m 
+and outflow of £70.1m).",Foreign exchange contracts can be settled on a net or gross basis; the net cash flows presented in the table above reflect an inflow of £88.4m and outflow of £88.4m (2020: inflow of £70.3m and outflow of £70.1m).,149,48.18599,contracts
+"Such contracts enable the Group to mitigate the risk of changing interest rates on 
+the fair value of issued fixed-rate debt held and the cash flow exposures on the issued variable-rate debt held.",Such contracts enable the Group to mitigate the risk of changing interest rates on the fair value of issued fixed-rate debt held and the cash flow exposures on the issued variable-rate debt held.,144,48.505768,"risk, contracts"
+"When non-monetary assets and liabilities are stated at fair value in a foreign currency, we translate them at 
+the prevailing exchange rate on the date we determined the fair value.","When non-monetary assets and liabilities are stated at fair value in a foreign currency, we translate them at the prevailing exchange rate on the date we determined the fair value.",113,48.5894,"foreign, rate"
+"As part of its interest rate strategy, the Company has entered into interest rate swaps to hedge floating LIBOR rates.","As part of its interest rate strategy, the Company has entered into interest rate swaps to hedge floating LIBOR rates.",178,49.10419,"swaps, rate, hedge"
+"These risks include market risk (including currency risk, fair value interest rate risk 
+and price risk), credit risk, liquidity risk and cash flow interest rate risk.","These risks include market risk (including currency risk, fair value interest rate risk and price risk), credit risk, liquidity risk and cash flow interest rate risk.",143,49.443035,"risk, currency, rate, risks"
+"IAS 21 ‘The Effects of Changes in Foreign Exchange Rates’ requires us to treat the following as assets and liabilities of the acquired 
+entity, rather than of the acquiring entity:
+ > goodwill arising on acquisition of a foreign operation; and
+ > any fair value adjustments we make on acquisition to the carrying amounts of the acquiree’s assets and liabilities.","IAS 21 ‘The Effects of Changes in Foreign Exchange Rates’ requires us to treat the following as assets and liabilities of the acquired entity, rather than of the acquiring entity: > goodwill arising on acquisition of a foreign operation; and > any fair value adjustments we make on acquisition to the carrying amounts of the acquiree’s assets and liabilities.",127,49.471535,foreign
+"Foreign currencies
+We record transactions in foreign currencies at the rate ruling at the transaction date.",Foreign currencies We record transactions in foreign currencies at the rate ruling at the transaction date.,172,49.584667,"currencies, foreign, rate"
+We therefore express them in the foreign operation’s functional currency and retranslate them at the balance sheet date.,We therefore express them in the foreign operation’s functional currency and retranslate them at the balance sheet date.,127,49.806713,"currency, foreign"
