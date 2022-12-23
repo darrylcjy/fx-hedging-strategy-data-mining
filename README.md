@@ -2,6 +2,8 @@
 
 _*This is a NUS Capstone Project in collaboration with [NatWest Markets](https://www.natwest.com/corporates.html)._
 
+<a href="https://colab.research.google.com/drive/1jRmG7zD3GOOybDmY2lTQOAYLDEsRIcot?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
 ## Problem Statement
 
 When businesses transact in various currencies (anticipate costs in one currency and revenue in another), this creates a risk to their business when the exchange rate moves as it may worsen their profit margins by making their costs larger relative to their revenues. To mitigate their exposure to exchange rate moves, many businesses need to execute currency / foreign exchange (FX) hedges through the use of financial derivatives products such as forwards and options. 
