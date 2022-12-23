@@ -25,6 +25,8 @@ matrix, it will be deemed as a relevant sentence.**
 
 For this project, sentences will be vectorized using this particular transformer model called the _[all-MiniLM-L12-v2](https://www.sbert.net/docs/pretrained_models.html#sentence-embedding-models/)_, which can be loaded using the SentenceTransformers library.
 
+<kbd> <img src="imgs/LoadModel.png" width="800" height="80" /> 
+
 ## Data
 
 `data/input/parsed_text` - Annual reports parsed into sentences 
